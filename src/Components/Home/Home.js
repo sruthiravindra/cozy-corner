@@ -1,9 +1,12 @@
 import React from 'react'
 import './home.css';
+import Banner from './Banner';
 
 function Home() {
   return (
-    <div>Home</div>
+    <section className='home'>
+      <Banner/>
+    </section>
   )
 }
 
