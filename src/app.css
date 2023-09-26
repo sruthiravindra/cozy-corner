@@ -127,6 +127,7 @@ body {
 
 .navbar-button {
    background-color: var(--SecondaryColor);
+   margin-left:10px;
 }
 
 @media screen and (max-width: 768px) {
@@ -144,6 +145,9 @@ body {
 .bannerCaption {
    background-color: #c8f8ff;
    opacity: 0.8;
+   /* top: 10%;
+transform: translateY(-90%);
+bottom: 0px; */
 }
 
 .footer {

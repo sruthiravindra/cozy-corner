@@ -27,7 +27,8 @@ const Header = () => {
               </NavLink>
             </NavItem>
           </Nav>
-          <Button className='navbar-button'>Borrow</Button>
+          <Button className='navbar-button'>Login</Button>
+          <Button className='navbar-button'>Sign Up</Button>
         </Collapse>
       </Navbar>
     </section>
